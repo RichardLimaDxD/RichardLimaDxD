@@ -26,7 +26,7 @@
 
 <div/>
 
-  ![Snake animation](https://github.com/RichardLimaDxD/RichardLimaDxD/blob/output/github-contribution-grid-snake.svg)
+  
   
 - 🌱 Atualmente estou estudando BackEnd...
 - 👯 Estou procurando emprego de desenvolvedor FrontEnd ou FullStack...
