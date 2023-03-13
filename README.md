@@ -1,6 +1,6 @@
 ### Olá, eu  me chamo Richard!
 
-<div>
+<div style="display: flex >
 <a href="https://github.com/RichardLimaDxD">
 
 <img heigth="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RichardLimaDxD&show_icons=true&theme=tokyonight" />
