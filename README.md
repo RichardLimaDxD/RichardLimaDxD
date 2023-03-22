@@ -10,9 +10,8 @@
 
 <div/>
 
-<br/>
+
  
-![snake gif](https://github.com/RichardLimaDxD/RichardLimaDxD/blob/output/github-contribution-grid-snake.svg)  
   
 <br/>
   
