@@ -21,14 +21,38 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=35&pause=1000&color=00D0FF&width=600&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block" >
   <img align="center" alt="Ri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
   <img align="center" alt="Ri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+ 
   <img align="center" alt="Ri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ 
+  <img align="center" alt="Ri-React" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />   
+ 
   <img align="center" alt="Ri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ 
   <img align="center" alt="Ri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="VSCODE" height="30" width="40"  src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" />
-  <img align="right" alt="Ri-pic" height="250" style="border-radius:50px"  src="https://static.wikia.nocookie.net/grandsummoners_gamepedia_en/images/f/f2/Rimuru_%28Sime-form%29_Full_Art.png/revision/latest?cb=20190218135839?width=676&height=976">
+
+  <img align="center" alt="Ri-CSS" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
+
+  <img align="center" alt="Ri-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+
+  <img align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+ 
+  <img align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  
+  <img  align="center" alt="Ri-CSS" height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />  
+ 
+  <img  align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+ 
+  <img align="center" alt="Ri-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+ 
+  <img  align="center" alt="Ri-CSS" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+ 
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />    
+                      
+  <img align="right" alt="Ri-pic" height="250" style="border-radius:50px"  src="https://media.tenor.com/alWoCrjPK8IAAAAC/tanjiro.gifwidth=676&height=976">
 </div>
 
 ##
