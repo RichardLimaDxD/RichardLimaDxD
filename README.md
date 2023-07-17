@@ -43,7 +43,7 @@
   <img align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
  
   <img align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  
+  <br>
   <img  align="center" alt="Ri-CSS" height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />  
  
   <img  align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -64,15 +64,15 @@
 <div>
 
 <a href = "mailto:richardpires663802@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/richard-lima-b70203246/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/richard-lima-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <div/>
   
 ##
   
   ### Olá, eu  me chamo Richard!
-- 🌱 Atualmente estou estudando Python...
-- 👯 Estou procurando emprego de desenvolvedor FrontEnd ou FullStack...
-- 👨🏽‍💻 Sou estudante na Kenzie Academy Brasil...
+- 🌱 Atualmente estou estudando Next.js e Nest...
+- 👯 Estou procurando oportunidades de desenvolvedor FrontEnd ou FullStack...
+- 👨🏽‍💻 Sou estudante de desenvolvimento fullStack na Kenzie Academy Brasil...
 - 🎓 Sou formado em Desenvolvedor FrontEnd...
 - 👋🏻 Contato: richardpires663802@gmail.com   
