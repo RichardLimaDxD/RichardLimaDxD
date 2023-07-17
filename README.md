@@ -11,13 +11,9 @@
 <img heigth="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RichardLimaDxD&layout=compact&langs_count=8&theme=tokyonight" />
 
 <div/>
-
-
  
-  
 <br/>
-  
-<p align="center"><img src="https://profile-counter.glitch.me/RichardLimaDxD/count.svg" /></p>
+ 
   
 ##
   
