@@ -19,37 +19,45 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=35&pause=1000&color=00D0FF&width=600&lines=Languages+and+Tools)](https://git.io/typing-svg)
 
-<div style="display: inline_block" >
+<div style="display: flex; flex-wrap: wrap; gap: 5rem;" >
   <img align="center" alt="Ri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Ri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Ri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Ri-React" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />   
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Ri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Ri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Ri-CSS" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Ri-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <br>
   <img  align="center" alt="Ri-CSS" height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />  
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img  align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Ri-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
- 
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;         
   <img  align="center" alt="Ri-CSS" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
- 
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />    
-                      
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />     
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;  
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
   <img align="right" alt="Ri-pic" height="250" style="border-radius:50px"  src="https://media.tenor.com/alWoCrjPK8IAAAAC/tanjiro.gifwidth=676&height=976">
 </div>
 
@@ -67,8 +75,7 @@
 ##
   
   ### Olá, eu  me chamo Richard!
-- 🌱 Atualmente estou estudando Next.js e Nest...
+- 🌱 Atualmente estou estudando C# e .NET...
 - 👯 Estou procurando oportunidades de desenvolvedor BackEnd ou FullStack...
-- 👨🏽‍💻 Sou estudante de desenvolvimento fullStack na Kenzie Academy Brasil...
-- 🎓 Sou formado em Desenvolvedor FrontEnd...
+- 🎓 Sou formado em Desenvolvimento FullStack...
 - 👋🏻 Contato: richardpires663802@gmail.com   
