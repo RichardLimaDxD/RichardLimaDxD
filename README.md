@@ -58,7 +58,22 @@
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img align="right" alt="Ri-pic" height="250" style="border-radius:50px"  src="https://media.tenor.com/alWoCrjPK8IAAAAC/tanjiro.gifwidth=676&height=976">
+  <br>
+  <img align="center" alt="Ri-CSS" height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;     
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;      
+  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
+  &nbsp;&nbsp;&nbsp;&nbsp;      
+  <img align="right" alt="Ri-pic" height="250" style="border-radius:50px" src="https://media.tenor.com/alWoCrjPK8IAAAAC/tanjiro.gifwidth=676&height=976">
 </div>
 
 ##
@@ -75,7 +90,8 @@
 ##
   
   ### Olá, eu  me chamo Richard!
-- 🌱 Atualmente estou estudando C# e .NET...
-- 👯 Estou procurando oportunidades de desenvolvedor BackEnd ou FullStack...
-- 🎓 Sou formado em Desenvolvimento FullStack...
+- 🌱 Atualmente estou estudando engenharia de software e sempre procuro novas tecnologias para expandir meu repertorio...
+- 👯 Estou procurando oportunidades de desenvolvedor BackEnd, FrontEnd ou FullStack...
+- 🎓 Sou formado em Desenvolvimento FullStack na Kenzie Academy Brasil...
+- 👩‍💻 Atuo em algumas plataformas de freelancer, vc pode acabar me encontrando em alguma delas...
 - 👋🏻 Contato: richardpires663802@gmail.com   
