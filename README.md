@@ -52,28 +52,11 @@
   &nbsp;&nbsp;&nbsp;&nbsp;
   <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />     
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;  
   <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
   &nbsp;&nbsp;&nbsp;&nbsp; 
   <br>
-  <img align="center" alt="Ri-CSS" height="80" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;     
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apachekafka/apachekafka-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;      
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;      
-  <img align="right" alt="Ri-pic" height="250" style="border-radius:50px" src="https://media.tenor.com/alWoCrjPK8IAAAAC/tanjiro.gifwidth=676&height=976">
 </div>
 
 ##
@@ -91,7 +74,7 @@
   
   ### Olá, eu  me chamo Richard!
 - 🌱 Atualmente estou estudando engenharia de software e sempre procuro novas tecnologias para expandir meu repertorio...
-- 👯 Dev no Ei...
+- 👯 Desenvolvedor fullstack no Ei...
 - 🎓 Sou formado em Desenvolvimento FullStack na Kenzie Academy Brasil...
 - 👩‍💻 Atuo em algumas plataformas de freelancer, vc pode acabar me encontrando em alguma delas...
 - 👋🏻 Contato: richardpires663802@gmail.com   
