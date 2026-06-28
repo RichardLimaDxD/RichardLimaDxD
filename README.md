@@ -1,80 +1,103 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=35&pause=1000&color=00D0FF&width=600&lines=Welcome+To+My+Profile)](https://git.io/typing-svg)
+<div align="center">
 
-<img heigth="100" width="500" src="https://i.redd.it/bpxxqqvps4h91.gif"/>
+# Olá, eu sou Richard Lima 👋
 
-##
+### Engenheiro de Software | Full-Stack & IA Aplicada
 
-<div>
-<a href="https://github.com/RichardLimaDxD">
+Construindo sistemas robustos, da infraestrutura industrial à nuvem com Clean Architecture, DDD e IA aplicada no dia a dia.
 
-<img heigth="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RichardLimaDxD&show_icons=true&theme=tokyonight" />
-<img heigth="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RichardLimaDxD&layout=compact&langs_count=8&theme=tokyonight" />
+📍 Jundiaí – SP, Brasil &nbsp;
 
-<div/>
- 
-<br/>
- 
-  
-##
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=35&pause=1000&color=00D0FF&width=600&lines=Languages+and+Tools)](https://git.io/typing-svg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-lima-pires/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardpires663802@gmail.com)
 
-<div style="display: flex; flex-wrap: wrap; gap: 5rem;" >
-  <img align="center" alt="Ri-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-React" height="60" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />   
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-CSS" height="50" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />   
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-CSS" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  <br>
-  <img  align="center" alt="Ri-CSS" height="60" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />  
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img  align="center" alt="Ri-CSS" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-CSS" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;         
-  <img  align="center" alt="Ri-CSS" height="40" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />     
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp; 
-  <img align="center" alt="Ri-CSS" height="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
-  &nbsp;&nbsp;&nbsp;&nbsp; 
-  <br>
 </div>
 
-##
+<div align="center">
+   <img src="https://i.pinimg.com/originals/4b/e6/fe/4be6fe1e5f0eec17b1f62c3f6cd53e04.gif" alt="tanjiro" />
+</div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Aboreto&size=35&pause=1000&color=00D0FF&width=600&lines=Connect+With+Me)](https://git.io/typing-svg)
-  
-<div>
+---
 
-<a href = "mailto:richardpires663802@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/richard-lima-pires/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+## 🧑‍💻 Sobre mim
 
-<div/>
-  
-##
-  
-  ### Olá, eu  me chamo Richard!
-- 🌱 Atualmente estou estudando engenharia de software e sempre procuro novas tecnologias para expandir meu repertorio...
-- 👯 Desenvolvedor fullstack na empresa Satellitus Tecnologia...
-- 🎓 Sou formado em Desenvolvimento FullStack na Kenzie Academy Brasil...
-- 👩‍💻 Atuo em algumas plataformas de freelancer, vc pode acabar me encontrando em alguma delas...
-- 👋🏻 Contato: richardpires663802@gmail.com   
+Sou Engenheiro de Software, atuando full-stack com forte foco em **Inteligência Artificial Aplicada**, **arquitetura de sistemas** e **engenharia de agentes autônomos**. Tenho experiência prática entregando sistemas críticos de baixa latência, plataformas SaaS corporativas e arquiteturas de sincronização híbrida entre redes locais e nuvem.
+
+- 🎓 Cursando **Bacharel em Engenharia de Software** (Anhanguera, conclusão prevista em 2027)
+- 🤖 Fazendo extensão universitária em **Engenharia de IA Aplicada** (Unopar), com nomes como *Erick Wendel, Alvaro Camillo, Ahirton Lopes, Camilla Martins e Jéssica Costa*
+- 🛠️ Formado em **Desenvolvimento Web Full-Stack** (2000h) pela Kenzie Academy Brasil (2023)
+- 🏭 Atualmente na **Kasco AI**, desenvolvendo sistemas de inspeção e segurança industrial com visão computacional, IA em tempo real e plataformas web.
+- 🧠 Especialista em **SDD (Spec-Driven Development)**, orquestração de agentes, **RAG Enterprise**, **MCP (Model Context Protocol)** e automação de codebases via **Claude Code** e **Cursor**
+- 🏗️ Praticante de **DDD**, **Clean Architecture**, **Arquitetura Hexagonal**, **Micro Services** e **TDD** com cobertura rigorosa de testes (unitários, integração, E2E)
+- 🌍 Inglês intermediário para leitura, escrita e consumo de APIs globais — codebases sempre em inglês
+
+---
+
+## 🧰 Stacks & Tecnologias
+
+### Linguagens
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=typescript,python,go,nodejs,dotnet,javascript,php" />
+</p>
+
+### Frameworks & Bibliotecas
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nextjs,nestjs,express,django,angular,react,electron,tauri" />
+</p>
+
+### Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+### Estilização & Marcação
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=sass,tailwind,css,html" />
+</p>
+
+### IA & Visão Computacional
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow" />
+</p>
+
+> 💡 Aplicação prática de **YOLO**, **Triton Inference Server**, engines de visão computacional em tempo real, **RAG Enterprise**, **LLM Skills customizadas** e **MCP** para automação de agentes.
+
+### Banco de Dados & Mensageria
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,redis,kafka,rabbitmq" />
+</p>
+
+### DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,azure,aws,git,github,gitlab,githubactions,vercel" />
+</p>
+
+> ☁️ IaC com **Pulumi (AWS)**, pipelines de **CI/CD** e provisionamento na **Azure**.
+
+### Ferramentas & Metodologias
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,figma,visualstudio" />
+</p>
+
+`Scrum` `Clean Code` `DDD` `TDD` `SDD` `Clean Architecture` `Arquitetura Hexagonal` `n8n`
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RichardLimaDxD&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RichardLimaDxD&theme=tokyonight&hide_border=true" />
+</div>
+
+## 📫 Vamos conversar?
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-lima-pires/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardpires663802@gmail.com)
+
+⭐️ *Sinta-se livre para explorar meus repositórios e entrar em contato!*
+
+</div>
